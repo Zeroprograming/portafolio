@@ -1,0 +1,12 @@
+{
+  "aboutDescription": {
+    "paragraph1": "I'm a Systems Engineering student.",
+    "paragraph2": "I've always been concerned about learning beyond what is taught to me, so I've studied many other topics and languages on my own to keep up with today's world of technologies. My favorite part of programming is the problem-solving aspect. I love the feeling of finally finding a solution to a problem.",
+    "paragraph3": "My main stack is ",
+    "paragraph4": "React, Next.js, Node.js, PostgreSQL, MongoDB, GraphQL, and Amazon Web Services (AWS). ",
+    "paragraph5": "I'm also familiar with ",
+    "paragraph6": "Java, C# ",
+    "paragraph7": "and many more. I'm always looking for new technologies to learn that will complement me as a developer."
+  },
+  "enjoyTimeDescription": "When I'm not programming, I enjoy playing video games. I also like to keep fit by going to the gym. In my spare time, I play with my pet and seek to get certified in various topics to broaden my knowledge."
+}

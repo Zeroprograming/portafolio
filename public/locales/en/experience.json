@@ -1,0 +1,33 @@
+{
+  "myExperience": "My Experience",
+  "systemsTechnician": {
+    "systemsTechnicianTitle": "Systems Technician",
+    "systemsTechnicianLocation": "Villa del Rosario, Colombia",
+    "systemsTechnicianDate": "October 2019 - February 2020",
+    "systemsTechnicianDec": "Employee of the systems department of the Villa del Rosario city hall, in charge of technical support, error correction, and creation of computer solutions to problems for the municipality."
+  },
+  "systemsEngineering": {
+    "systemsEngineeringTitle": "Systems Engineering",
+    "systemsEngineeringLocation": "Villa del Rosario, Colombia",
+    "systemsEngineeringDate": "2021",
+    "systemsEngineeringDec": "During my time at the university, I have acquired skills in Java and MySQL, learned the value of teamwork and contributed to the academic community by providing programming input to professors. One of my most notable achievements was the development of a hotel management application in Java, for which I received recognition. This experience has enriched my training as a systems engineer."
+  },
+  "unityDeveloper": {
+    "unityDeveloperTitle": "Unity Developer",
+    "unityDeveloperLocation": "Cucuta, Colombia",
+    "unityDeveloperDate": "February 2023 - June 2023",
+    "unityDeveloperDec": "Unity Developer and Backend, my expertise spanned video game logic programming in C#, MongoDB database management, and REST API and Websockets development with Typescript and Deno. My work focused on creating interactive experiences and robust systems for video games."
+  },
+  "backendDeveloper": {
+    "backendDeveloperTitle": "Backend Developer",
+    "backendDeveloperLocation": "Cucuta, Colombia",
+    "backendDeveloperDate": "June 2023 - August 2023",
+    "backendDeveloperDec": "As a Back-End Developer and System Architect, I designed and developed scalable back-end solutions. I utilized Docker for containerized deployments and managed PostgreSQL databases for efficient data storage. I implemented secure authentication with JSON Web Tokens (JWT) and leveraged Amazon Web Services (AWS) for cloud infrastructure. I built RESTful APIs and real-time Websockets functionality with TypeScript and Deno. I collaborated with cross-functional teams for seamless integration and contributed to efficient code management on GitHub. My primary focus was ensuring the system's security, scalability, and stability."
+  },
+  "fullStackDeveloper": {
+    "fullStackDeveloperTitle": "Full-Stack Developer",
+    "fullStackDeveloperLocation": "Remoto - Colombia",
+    "fullStackDeveloperDate": "September 2023 - November 2023",
+    "fullStackDeveloperDec": "As a full stack developer, I developed web systems using technologies such as next.js, react native, typeorm, graphql, Docker, Postgresql, nodejs and git. I was in charge of both the frontend and the backend of the applications, creating dynamic and functional user interfaces, as well as robust and scalable data services. I worked in a team with other developers, following the best coding practices and quality standards."
+  }
+}

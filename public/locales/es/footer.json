@@ -1,0 +1,5 @@
+{
+  "propertyRights": "{{ageDate}} ZeroProgramming. Todos los derechos reservados",
+  "aboutWebsite": "Acerca de este sitio web: ",
+  "description": "construido con React & Next.js (App Router & Server Actions), TypeScript, Tailwind CSS, Framer Motion, React Email & Resend, Next-i18next, Vercel hosting."
+}

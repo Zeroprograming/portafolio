@@ -1,0 +1,11 @@
+{
+  "myProjects": "Mis proyectos",
+  "hotelManagement": "Sistema de gestión de hotel",
+  "hotelManagementDesc": "Es una aplicación de escritorio diseñada para facilitar la gestión de un hotel. Esta aplicación permite llevar un registro detallado, control y monitoreo de todas las operaciones del hotel.",
+  "hotelApp": "Aplicación de hotel",
+  "hotelAppDesc": "Aplicación movil para el turismo. Esta aplicación permite encontrar restaurantes, bares, discotecas, etc. Además, permite ver los eventos que se realizan en la ciudad.",
+  "nextjsLoremIpsum": "Lorem Ipsum Gen",
+  "nextjsLoremIpsumDesc": "Lorem Ipsum Gen es una aplicación web que permite generar texto Lorem Ipsum. Esta aplicación fue desarrollada con Next.js y Tailwind CSS.",
+  "snakeGameApp": "Juego de la serpiente",
+  "snakeGameAppDesc": "Aplicación movil del juego de la serpiente. Esta aplicación fue desarrollada como una practica de programación en Android y por hobby."
+}
