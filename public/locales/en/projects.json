@@ -5,7 +5,17 @@
   "hotelApp": "Hotel App",
   "hotelAppDesc": "Mobile application for tourism. This application allows you to find restaurants, bars, nightclubs, etc.. It also allows you to see the events taking place in the city.",
   "nextjsLoremIpsum": "Lorem Ipsum Gen",
-  "nextjsLoremIpsumDesc": "Lorem Ipsum Generator is a web application that allows you to generate random text. This application is built with Next.js and Tailwind CSS.",
+  "nextjsLoremIpsumDesc": "Lorem Ipsum Gen is a web application that allows you to generate Lorem Ipsum text boxes. Developed as a personal practice and test of myself.",
   "snakeGameApp": "Snake Game App",
-  "snakeGameAppDesc": "Snake Game mobile application. This application was developed as an Android programming practice and as a hobby."
+  "snakeGameAppDesc": "Snake Game mobile application. This application was developed as an Android programming practice and as a hobby.",
+  "reactMarkdownPreviewer": "Markdown Previewer",
+  "reactMarkdownPreviewerDesc": "Markdown Previewer is a web application that allows you to preview markdown text. Developed as an internship for FreeCodeCamp",
+  "randomPhraseGenerator": "Random Phrase Generator",
+  "randomPhraseGeneratorDesc": "Random Phrase Generator is a web application that allows you to generate random phrases.",
+  "pokeGallery": "Poke Gallery",
+  "pokeGalleryDesc": "Poke Gallery is a web application that allows you to view pokemon by consuming the PokeAPI API.",
+  "cryptoPriceRust": "Crypto Price Rust",
+  "cryptoPriceRustDesc": "Crypto Price Rust is a terminal application that allows you to view the price of cryptocurrencies by consuming the CoinGecko API.",
+  "rocketApi": "Rocket API",
+  "rocketApiDesc": "Rocket API is a REST API developed in Rust that allows to create, read, update and delete users. With non-relational database and security system supported in Json Web Tokens."
 }

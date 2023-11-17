@@ -9,6 +9,11 @@ import hotelManagementImg from "../../public/hotelManagement.png";
 import hotelAppImg from "../../public/hotelApp.png";
 import nextjsLoremIpsumImg from "../../public/nextjsLoremIpsum.png";
 import snakeGameAppImg from "../../public/snakeGameApp.png";
+import reactMarkdownPreviewerImg from "../../public/reactMarkdownPreviewerImg.png";
+import randomPhraseGeneratorImg from "../../public/randomPhrases.png";
+import pokeGalleryImg from "../../public/pokeGallery.png";
+import cryptoPriceRustImg from "../../public/cryptoPriceRust.png";
+import rocketApiImg from "../../public/rocketApiImg.png";
 
 export interface Project {
   title: string;
@@ -106,6 +111,36 @@ export const projectsData: Project[] = [
     description: "snakeGameAppDesc",
     tags: ["React Expo", "React Native Gesture Handler", "Tailwind"],
     imageUrl: snakeGameAppImg,
+  },
+  {
+    title: "reactMarkdownPreviewer",
+    description: "reactMarkdownPreviewerDesc",
+    tags: ["React Native", "JavaScript", "HTML", "Tailwind"],
+    imageUrl: reactMarkdownPreviewerImg,
+  },
+  {
+    title: "randomPhraseGenerator",
+    description: "randomPhraseGeneratorDesc",
+    tags: ["JavaScript", "HTML", "CSS"],
+    imageUrl: randomPhraseGeneratorImg,
+  },
+  {
+    title: "pokeGallery",
+    description: "pokeGalleryDesc",
+    tags: ["Typescript", "HTML", "CSS", "JavaScript"],
+    imageUrl: pokeGalleryImg,
+  },
+  {
+    title: "cryptoPriceRust",
+    description: "cryptoPriceRustDesc",
+    tags: ["Rust", "Reqwest", "Tokio", "Serde", "Serde_Json", "CoinGecko API"],
+    imageUrl: cryptoPriceRustImg,
+  },
+  {
+    title: "rocketApi",
+    description: "rocketApiDesc",
+    tags: ["Rust", "MongoDB", "Bcrypt", "JWT", "Rocket", "Serde"],
+    imageUrl: rocketApiImg,
   },
 ];
 

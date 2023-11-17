@@ -5,7 +5,17 @@
   "hotelApp": "Aplicación de hotel",
   "hotelAppDesc": "Aplicación movil para el turismo. Esta aplicación permite encontrar restaurantes, bares, discotecas, etc. Además, permite ver los eventos que se realizan en la ciudad.",
   "nextjsLoremIpsum": "Lorem Ipsum Gen",
-  "nextjsLoremIpsumDesc": "Lorem Ipsum Gen es una aplicación web que permite generar texto Lorem Ipsum. Esta aplicación fue desarrollada con Next.js y Tailwind CSS.",
+  "nextjsLoremIpsumDesc": "Lorem Ipsum Gen es una aplicación web que permite generar cuadros texto Lorem Ipsum. Desarrollada como una practica personal y prueba de mi mismo.",
   "snakeGameApp": "Juego de la serpiente",
-  "snakeGameAppDesc": "Aplicación movil del juego de la serpiente. Esta aplicación fue desarrollada como una practica de programación en Android y por hobby."
+  "snakeGameAppDesc": "Aplicación movil del juego de la serpiente. Esta aplicación fue desarrollada como una practica de programación en Android y por hobby.",
+  "reactMarkdownPreviewer": "React Markdown Previewer",
+  "reactMarkdownPreviewerDesc": "React Markdown Previewer es una aplicación web que permite visualizar el resultado de un texto escrito en Markdown. Desarrollada como una practica para FreeCodeCamp",
+  "randomPhraseGenerator": "Generador de frases aleatorias",
+  "randomPhraseGeneratorDesc": "Generador de frases aleatorias es una aplicación web que permite generar frases aleatorias.",
+  "pokeGallery": "Poke Gallery",
+  "pokeGalleryDesc": "Poke Gallery es una aplicación web que permite ver los pokemones consumiendo la API de PokeAPI.",
+  "cryptoPriceRust": "Crypto Price Rust",
+  "cryptoPriceRustDesc": "Crypto Price Rust es una aplicación de terminal que permite ver el precio de las criptomonedas consumiendo la API de CoinGecko.",
+  "rocketApi": "Rocket API",
+  "rocketApiDesc": "Rocket API es una API REST desarrollada en Rust que permite crear, leer, actualizar y eliminar usuarios. Con base de datos no relacional y sistema de seguridad respaldado en Json Web Tokens."
 }

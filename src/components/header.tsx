@@ -57,6 +57,11 @@ export default function Header() {
                       stiffness: 380,
                       damping: 30,
                     }}
+                    initial={{ opacity: 0 }}
+                    animate={{
+                      opacity: link.name === activeSection ? 1 : 0,
+                      transition: { duration: 1 }, // Duración de la animación en segundos
+                    }}
                   ></motion.span>
                 )}
               </Link>
