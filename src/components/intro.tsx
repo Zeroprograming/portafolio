@@ -8,10 +8,12 @@ import { FaGithubSquare } from "react-icons/fa";
 
 import { useSectionInView } from "@/lib/hooks/section-view";
 import { useTranslation } from "next-i18next";
+import { useRouter } from "next/router";
 
 export default function Intro() {
   const { ref } = useSectionInView("home");
   const { t } = useTranslation("intro");
+  const router = useRouter();
 
   return (
     <section
@@ -101,7 +103,11 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href={
+            router.locale === "en"
+              ? "/English_Johan_Jimenez_CV.pdf"
+              : "/Spanish_Johan_Jimenez_CV.pdf"
+          }
           download
         >
           {t("downloadCV")}{" "}

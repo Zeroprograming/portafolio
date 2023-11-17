@@ -16,7 +16,7 @@ export default function Projects() {
   return (
     <section id="projects" className="scroll-mt-28 mb-28" ref={ref}>
       <SectionHeading>{t("myProjects")}</SectionHeading>
-      <div className="flex flex-wrap justify-around">
+      <div className="flex flex-wrap justify-center gap-6 ">
         {projectsData.map((project, index) => (
           <React.Fragment key={index}>
             <Project {...project} />

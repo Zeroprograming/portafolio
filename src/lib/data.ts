@@ -167,6 +167,7 @@ export const skillsData = [
   "Postman",
   "Socket.io",
   "Linux",
+  "Ubuntu Server",
   "Microservices",
   "MongoDB",
   "MySQL",
