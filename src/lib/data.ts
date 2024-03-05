@@ -85,6 +85,13 @@ export const experiencesData = [
     icon: React.createElement(FaReact),
     date: "fullStackDeveloper.fullStackDeveloperDate",
   },
+  {
+    title: "soinsKarismaDev.soinsKarismaDevTitle",
+    location: "soinsKarismaDev.soinsKarismaDevLocation",
+    description: "soinsKarismaDev.soinsKarismaDevDec",
+    icon: React.createElement(FaReact),
+    date: "soinsKarismaDev.soinsKarismaDevDate",
+  },
 ] as const;
 
 export const projectsData: Project[] = [
@@ -148,7 +155,10 @@ export const skillsData = [
   "Amazon EC2",
   "Amazon SES",
   "Amazon S3",
+  "Amazon Lambda",
   "Amazon Web Services",
+  "Google Cloud Platform",
+  "Github Actions",
   "Apollo GraphQL",
   "Apache Kafka",
   "CSS",
@@ -161,6 +171,8 @@ export const skillsData = [
   "Github",
   "GraphQL",
   "HTML",
+  "Python",
+  "Django",
   "Java",
   "JavaScript",
   "JSON Web Tokens",

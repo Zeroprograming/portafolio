@@ -29,5 +29,11 @@
     "fullStackDeveloperLocation": "Remoto - Colombia",
     "fullStackDeveloperDate": "Septiembre 2023 - Noviembre 2023",
     "fullStackDeveloperDec": "Como desarrollador Full Stack, desarrollé sistemas web utilizando tecnologías como next.js, react native, typeorm, graphql, Docker, Postgresql, nodejs y git. Estuve a cargo tanto del frontend como del backend de las aplicaciones, creando interfaces de usuario dinámicas y funcionales, así como servicios de datos robustos y escalables. Trabajé en equipo con otros desarrolladores, siguiendo las mejores prácticas de codificación y estándares de calidad."
+  },
+  "soinsKarismaDev": {
+    "soinsKarismaDevTitle": "Backend Developer",
+    "soinsKarismaDevLocation": "Remoto - Quebec, Canada",
+    "soinsKarismaDevDate": "Noviembre 2023 - Marzo 2024",
+    "soinsKarismaDevDec": "En Soins Karisma Inc., asumí el rol de desarrollador full stack, enfocándome principalmente en el backend. Lideré el desarrollo de sistemas web utilizando tecnologías como Google Cloud Platform (GCP), TypeORM, Docker, PostgreSQL, Node.js y Git. Me especialicé en la integración de Stripe como pasarela de pagos, aprovechando sus webhooks y sistemas para garantizar transacciones seguras y eficientes. Gestioné despliegues en la nube utilizando SSH en GCP, configuré APIs y implementé estrictas medidas de seguridad para proteger datos sensibles, especialmente a nivel bancario. Mi enfoque se centró en la optimización y administración del sistema económico, utilizando Stripe para gestionar transacciones financieras de manera eficaz y segura. Trabajé en estrecha colaboración con equipos multidisciplinarios para garantizar la integración sin problemas de los sistemas y cumplir con los estándares de calidad establecidos."
   }
 }
