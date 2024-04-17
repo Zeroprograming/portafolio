@@ -32,7 +32,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src={process.env.NEXT_PUBLIC_SELFIE_URL || "/selfie.jpg"}
+              src={"/Selfie.jpeg"}
               alt="Ricardo portrait"
               width="300"
               height="300"
